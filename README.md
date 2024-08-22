@@ -22,14 +22,13 @@ API Documentation: http://wjwwood.github.com/serial/doc/1.1.0/index.html
 
  * [cmake](http://www.cmake.org) - buildsystem
  * [Python](http://www.python.org) - scripting language
- * [empy](http://www.alcyone.com/pyos/empy/) - Python templating library
- * [catkin_pkg](http://pypi.python.org/pypi/catkin_pkg/) - Runtime Python library for catkin
 
 ### Install
 
 Get the code:
 
-    git clone https://github.com/wjwwood/serial.git
+    git clone https://github.com/Hacker1337/serial.git
+    cd serial
 
 Build:
 
